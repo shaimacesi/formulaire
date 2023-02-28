@@ -1,0 +1,41 @@
+select {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%; /* longeur case */
+    padding: 10; /* hauteur */
+    border: 15%;
+    border-radius:  10%; /* Angle bordures */
+    background-color: whitesmoke; 
+    color: black;
+    }
+    body	
+    {
+    background-color:#4a9099;
+    }
+    input[type=text]
+    {
+    width: 50%; 
+    padding: 5%; 
+    margin: auto ;
+    box-sizing: medium ; 
+    background-color: whitesmoke; 
+    color:black ;
+    border-radius:  10%; /* Angle bordures */
+    }
+
+    select:focus
+    {
+    border: 50%;
+    }
+    
+   
+    nav a {
+        background-color: black;
+        color: aliceblue;
+    }
+
+
+       
+       
+    
+    
